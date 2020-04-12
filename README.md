@@ -8,30 +8,19 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
+```markdown'
 Syntax highlighted code block
 
-# ibrahim
-## Header 2
-### Header 3
+# I'm Ibrahim Kaddumi
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+## who am i ?
+** i'm graduate from AHU in commmunication engineering **
+### what is growth mindset
+* growth mindset: a person that think in positive way and always face the problem and not escape and he have a persevere to find a solution for the problem *
 
-**Bold** and _Italic_ and `Code` text
+-I have to optimistic
+-There is another way to do it
+-A lot of people count on you
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ibrahimkad/learing_project/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+:+1:
