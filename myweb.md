@@ -4,4 +4,4 @@
 
 | read01 | README.md |
 | ------ | ----- |
-| [read01]() | [README]() |
+| [read01](https://ibrahimkad.github.io/learning-journey/read01) | [README](https://ibrahimkad.github.io/learning-journey/) |
